@@ -1,0 +1,6 @@
+{
+  "name": "آتلیه الگانس - سالن زیبایی سینمایی",
+  "description": "تجربه تعاملی سینمایی سالن لوکس الگانس با اسکرول هوشمند تایم‌لاین ویدیو و رزرو خدمات تخصصی زیبایی به زبان‌های فارسی و انگلیسی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
