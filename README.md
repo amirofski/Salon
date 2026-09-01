@@ -127,25 +127,6 @@
 
 ---
 
-## 📹 نمایش ویدیویی
-
-برای نمایش ویدیویی از پروژه، می‌توانید یک فایل ویدیویی اضافه کنید:
-
-```markdown
-[![Salon Website Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
-```
-
-یا اگر ویدیو در پر��ژه ذخیره شده است:
-
-```html
-<video width="100%" height="auto" controls>
-  <source src="./path/to/your/video.mp4" type="video/mp4">
-  مرورگر شما از ویدیو پشتیبانی نمی‌کند
-</video>
-```
-
----
-
 ## 📋 نیازمندی‌ها و ویژگی‌ها
 
 - ✅ TypeScript (۹۶%)
